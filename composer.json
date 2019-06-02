@@ -1,0 +1,20 @@
+{
+    "name": "1st-amc/fear-the-walking-dead-season-5-episode-1-tv-streaming",
+    "description": " Watch Fear the Walking Dead Season 5 Episode 1 Online for Free Putlocker S05E01 WATCH FULL EPISODES HERE (CLICK LINK BELOW FO WATCHING))",
+	"keywords": ["Fear the Walking Dead Season 5 Episode 1 Online Watch"],
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "WATCH HERE : https://t.co/lYKbvTyx9r",
+            "homepage": "https://t.co/lYKbvTyx9r",
+            "role": "Developer"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "movies123\\": "src/"
+        }
+    },
+    "minimum-stability": "dev"
+}
